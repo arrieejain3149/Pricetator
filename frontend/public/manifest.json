@@ -1,0 +1,9 @@
+{
+  "short_name": "Pricetator",
+  "name": "Pricetator - Price Comparison App",
+  "icons": [],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#004e89",
+  "background_color": "#ffffff"
+}
