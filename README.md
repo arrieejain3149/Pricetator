@@ -178,19 +178,16 @@ Pull requests are welcome! For major changes, please open an issue first.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-MIT License - see LICENSE file for details
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourname](https://github.com/yourname)
-- Email: your-email@example.com
+- GitHub: [Arihant Jain](https://github.com/arrieejain3149)
+- Email: arihantjain17052007@gmail.com
 
 ## 💬 Support
 
-For support, email your-email@example.com or open an issue on GitHub
+For support, email arihantjain17052007@gmail.com or open an issue on GitHub
 
 ## 🙏 Acknowledgments
 
@@ -202,4 +199,4 @@ For support, email your-email@example.com or open an issue on GitHub
 
 ⭐ If you found this project useful, please give it a star!
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Arihant Jain]
