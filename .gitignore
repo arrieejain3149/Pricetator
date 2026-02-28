@@ -32,3 +32,5 @@ env/
 # Others
 .cache/
 temp/
+
+.env
