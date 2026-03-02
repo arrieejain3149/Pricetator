@@ -2,6 +2,8 @@
 
 A beautiful, modern price comparison web application built with React, Flask, and Framer Motion.
 
+<img width="1878" height="967" alt="Screenshot 2026-02-28 140010" src="https://github.com/user-attachments/assets/12292aea-2a4a-406a-8849-7f93c76d0757" />
+
 ## ✨ Features
 
 - **Dark Theme** - Prussian Blue + Black design
